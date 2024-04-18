@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\My project (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|c:\\users\\msi\\my project (3)\\assets\\codigo\\logicapies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\codigo\\logicapies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|c:\\users\\msi\\my project (3)\\assets\\codigo\\logicapersonaje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\codigo\\logicapersonaje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicaPies.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\My project (3)\\Assets\\Codigo\\LogicaPies.cs",
+              "RelativeDocumentMoniker": "Assets\\Codigo\\LogicaPies.cs",
+              "ToolTip": "C:\\Users\\MSI\\My project (3)\\Assets\\Codigo\\LogicaPies.cs",
+              "RelativeToolTip": "Assets\\Codigo\\LogicaPies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:20:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicaPersonaje1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\My project (3)\\Assets\\Codigo\\LogicaPersonaje1.cs",
+              "RelativeDocumentMoniker": "Assets\\Codigo\\LogicaPersonaje1.cs",
+              "ToolTip": "C:\\Users\\MSI\\My project (3)\\Assets\\Codigo\\LogicaPersonaje1.cs",
+              "RelativeToolTip": "Assets\\Codigo\\LogicaPersonaje1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:05:41.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
